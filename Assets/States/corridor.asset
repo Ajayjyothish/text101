@@ -11,7 +11,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76fe0dd4202fdb54fbeaf54e9cc49b6e, type: 3}
   m_Name: corridor
   m_EditorClassIdentifier: 
-  storyText: i am at the corridor
+  storyText: 'i am at the corridor.
+
+
+    Press 1 to go to the hall.
+
+    Press 2 to go to the gallery.
+
+    Press 3 to go to the jail.'
   nextStates:
   - {fileID: 11400000, guid: dc03c9f1b1a291b41bcb43471c611616, type: 2}
   - {fileID: 11400000, guid: bc3a764a4ce6ecd49af3390a85fde76f, type: 2}
+  - {fileID: 11400000, guid: d7117b8a2bf0b4648883d6c3442a6acd, type: 2}

@@ -11,8 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76fe0dd4202fdb54fbeaf54e9cc49b6e, type: 3}
   m_Name: StartingStates
   m_EditorClassIdentifier: 
-  storyText: This is used to create the states of each of the game states and also
-    to make sure that each states are reached and then the required states are taken
-    and then changed.
+  storyText: 'This is a prison escape.
+
+
+    Press 1 to start at jail'
   nextStates:
   - {fileID: 11400000, guid: d7117b8a2bf0b4648883d6c3442a6acd, type: 2}

@@ -11,6 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76fe0dd4202fdb54fbeaf54e9cc49b6e, type: 3}
   m_Name: jail
   m_EditorClassIdentifier: 
-  storyText: I am in jail right now
+  storyText: 'I am in jail right now.
+
+
+    Press 1 to go to the corridor.'
   nextStates:
   - {fileID: 11400000, guid: e5a668110b839a948a258c41700746f4, type: 2}
